@@ -2,5 +2,9 @@ Esta tarea se basa de los arboles binario, donde tenemos dos java class que seri
 Posee una raiz que es la referencia a la raiz del arbol 
 
 Se inicio un el arbol vacio 
-Posee metodos de Insertar publicos que inicia una insercion recursiva y como auxiliar usa el metodo de insertarRec que devuelve el nodo actualizado 
+Posee metodos de Insertar publicos que inicia una insercion recursiva y como auxiliar usa el metodo de insertarRec que devuelve el nodo actualizado.
+Metodos de Busca, este busca y organiza el nodo por el numero 
+y tambien se usa el metodo recursivo de buscarRec
+
+
 ![image](https://github.com/user-attachments/assets/786d3fc0-31a5-4980-b77c-fa41deb92ce2)
