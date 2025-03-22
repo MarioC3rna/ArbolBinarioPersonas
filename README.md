@@ -6,5 +6,7 @@ Posee metodos de Insertar publicos que inicia una insercion recursiva y como aux
 Metodos de Busca, este busca y organiza el nodo por el numero 
 y tambien se usa el metodo recursivo de buscarRec
 
+La tarea esta en el package Personas, tanto el nodo como e arbol binario 
+
 
 ![image](https://github.com/user-attachments/assets/786d3fc0-31a5-4980-b77c-fa41deb92ce2)
